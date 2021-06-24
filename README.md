@@ -6,4 +6,4 @@
 #### git commit -m 'first commit'
 #### git remote add origin [GitHub Repositories 這個專案頁面上提供的的repo網址] //加入遠端的分支
 #### git branch -M main //修改目前分支的名稱
-#### git push -u origin ma // 僅限第一次輸入，往後只需要輸入 git push
+#### git push -u origin main // 僅限第一次輸入，往後只需要輸入 git push
